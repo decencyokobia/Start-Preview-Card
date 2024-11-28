@@ -103,6 +103,21 @@ img {
         border-bottom-left-radius: 2rem;
         margin-bottom: -0.25rem;
     }
+
+    h1 {
+        font-size: 3.3rem;
+        text-align: center;
+    }
+
+    p {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+
+    .container {
+        font-size: 1.4rem;
+        text-align: center;
+    }
 }
 
 
