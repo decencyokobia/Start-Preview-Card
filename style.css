@@ -98,6 +98,9 @@ img {
 
     img {
         min-width: 100%;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 2rem;
+        margin-bottom: -0.25rem;
     }
 }
 
